@@ -18,7 +18,7 @@ I love using LLM tools to help me write the README.md files, but they often stru
 
 ## Preview 
 
-![Preview]("./usage.png")
+![Preview](usage.png)
 
 ---
 
